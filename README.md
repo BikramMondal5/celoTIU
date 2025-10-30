@@ -1,8 +1,9 @@
-
 # 🗳️ Voting DApp on Celo
 
 A simple **decentralized voting application** built with **Solidity** and deployed on the **Celo Blockchain (Sepolia Testnet)**.  
 This project demonstrates how blockchain can ensure **fair, transparent, and tamper-proof voting**.
+
+![Image-preview](./screenshot.png)
 
 ## 📜 Project Description
 
@@ -133,5 +134,3 @@ contract VotKing {
 > 💡 **Pro Tip:** Start small — experiment, break things, and learn how decentralized apps work under the hood.
 
 ### 🧠 Made with ❤️ by Bikram Mondal | BikramMondal5
-
-``
