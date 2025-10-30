@@ -133,4 +133,8 @@ contract VotKing {
 
 > 💡 **Pro Tip:** Start small — experiment, break things, and learn how decentralized apps work under the hood.
 
+## 📜 License
+
+This project is licensed under the `MIT License`.
+
 ### 🧠 Made with ❤️ by Bikram Mondal | BikramMondal5
