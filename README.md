@@ -130,9 +130,6 @@ contract VotKing {
 * [Remix IDE](https://remix.ethereum.org/) for easy smart contract testing
 * [Blockscout](https://blockscout.com/) for transparent transaction viewing
 
-
-> 💡 **Pro Tip:** Start small — experiment, break things, and learn how decentralized apps work under the hood.
-
 ## 📜 License
 
 This project is licensed under the `MIT License`.
